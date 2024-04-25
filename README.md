@@ -1,3 +1,3 @@
 #Demo
 
-C exercises from university
+C exercises from university!
